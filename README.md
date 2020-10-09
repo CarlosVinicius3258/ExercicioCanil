@@ -1,3 +1,3 @@
 # ExercicioCanil
 
-- Atividade de Java
+- Atividade de Java em versão console
